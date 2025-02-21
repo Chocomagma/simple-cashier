@@ -1,0 +1,62 @@
+[
+  {
+    "Kode Barang": "BRG001",
+    "Nama Barang": "Laptop ASUS VivoBook 14",
+    "Harga Barang": 7500000,
+    "Kategori": "Elektronik"
+  },
+  {
+    "Kode Barang": "BRG002",
+    "Nama Barang": "Smartphone Samsung Galaxy A54",
+    "Harga Barang": 5500000,
+    "Kategori": "Elektronik"
+  },
+  {
+    "Kode Barang": "BRG003",
+    "Nama Barang": "Kursi Ergonomis Kantor",
+    "Harga Barang": 1200000,
+    "Kategori": "Furniture"
+  },
+  {
+    "Kode Barang": "BRG004",
+    "Nama Barang": "Meja Belajar Kayu Jati",
+    "Harga Barang": 1800000,
+    "Kategori": "Furniture"
+  },
+  {
+    "Kode Barang": "BRG005",
+    "Nama Barang": "Sepatu Sneakers Nike Air",
+    "Harga Barang": 1300000,
+    "Kategori": "Fashion"
+  },
+  {
+    "Kode Barang": "BRG006",
+    "Nama Barang": "Tas Ransel Eiger 30L",
+    "Harga Barang": 950000,
+    "Kategori": "Fashion"
+  },
+  {
+    "Kode Barang": "BRG007",
+    "Nama Barang": "Kompor Gas 2 Tungku Rinnai",
+    "Harga Barang": 650000,
+    "Kategori": "Peralatan Dapur"
+  },
+  {
+    "Kode Barang": "BRG008",
+    "Nama Barang": "Blender Philips HR2221",
+    "Harga Barang": 700000,
+    "Kategori": "Peralatan Dapur"
+  },
+  {
+    "Kode Barang": "BRG009",
+    "Nama Barang": "Buku Atomic Habits - James Clear",
+    "Harga Barang": 180000,
+    "Kategori": "Buku"
+  },
+  {
+    "Kode Barang": "BRG010",
+    "Nama Barang": "Headset Gaming Logitech G733",
+    "Harga Barang": 2200000,
+    "Kategori": "Elektronik"
+  }
+]
